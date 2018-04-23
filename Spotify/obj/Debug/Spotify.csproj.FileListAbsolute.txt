@@ -1,0 +1,10 @@
+c:\users\mrsalvadorolea\documents\visual studio 2017\Projects\Spotify\Spotify\bin\Debug\Spotify.exe.config
+c:\users\mrsalvadorolea\documents\visual studio 2017\Projects\Spotify\Spotify\bin\Debug\Spotify.exe
+c:\users\mrsalvadorolea\documents\visual studio 2017\Projects\Spotify\Spotify\bin\Debug\Spotify.pdb
+c:\users\mrsalvadorolea\documents\visual studio 2017\Projects\Spotify\Spotify\obj\Debug\Spotify.csprojResolveAssemblyReference.cache
+c:\users\mrsalvadorolea\documents\visual studio 2017\Projects\Spotify\Spotify\obj\Debug\Spotify.Form1.resources
+c:\users\mrsalvadorolea\documents\visual studio 2017\Projects\Spotify\Spotify\obj\Debug\Spotify.Properties.Resources.resources
+c:\users\mrsalvadorolea\documents\visual studio 2017\Projects\Spotify\Spotify\obj\Debug\Spotify.csproj.GenerateResource.Cache
+c:\users\mrsalvadorolea\documents\visual studio 2017\Projects\Spotify\Spotify\obj\Debug\Spotify.exe
+c:\users\mrsalvadorolea\documents\visual studio 2017\Projects\Spotify\Spotify\obj\Debug\Spotify.pdb
+c:\users\mrsalvadorolea\documents\visual studio 2017\Projects\Spotify\Spotify\bin\Debug\Newtonsoft.Json.dll
