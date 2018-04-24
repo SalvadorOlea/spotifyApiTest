@@ -25,7 +25,7 @@ namespace Spotify
             http = (HttpWebRequest)WebRequest.Create("https://api.spotify.com/v1/search?q=muse&type=artist");
             http.Method = "GET";
             http.ContentType = "application/json";
-            http.Headers.Add("Authorization", "Bearer BQCmEwJWe10mSi-SJsm_K8SKqnbPGFfiSUXyKQhMXUhCBFAYjFWIaBrN4bjJSJH2q1b5uMs2KoRJyvkEYa9liy2HrGdYQEPn-R81856zS5wvfFw5X18EgC30DbGkO2x1feOcHKcT5oqzeAsr7w5aG-lAImzhWidszWBi7U8zsHpFUhY");
+            http.Headers.Add("Authorization", "Bearer API_KEY_HERE");
             using(Stream SpotifyStream = http.GetResponse().GetResponseStream())
             {
                 using(StreamReader stream = new StreamReader(SpotifyStream))
