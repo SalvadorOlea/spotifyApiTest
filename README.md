@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Spotify WEB API Test
 
 You can use the [editor on GitHub](https://github.com/SalvadorOlea/spotifyApiTest/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
